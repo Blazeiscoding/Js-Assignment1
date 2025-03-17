@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mood Tracker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>Choose Ur Today's Mood</h2>
+        <select id="mood" onchange="getUserMood()" >
+            <option value="😁">😁 Happy</option>
+            <option value="☹️">☹️ Sad</option>
+            <option value="😐">😐 Neutral</option>
+            <option value="🥳">🥳 Excited</option>
+        </select>
+        <button id="calenderView">Calender View</button>
+        <div id="dateDisplay"></div>
+    </div>
+    <h3>Your Mood History:</h3>
+    <ul id="moodHistory"></ul>
+    <script src="app.js"></script>
+</body>
+</html>
