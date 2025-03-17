@@ -46,9 +46,6 @@ JS-Assignment/
 ### Home Page
 ![Home Page](screenshots/home.png)
 
-### Mood Selection
-![Mood Selection](screenshots/mood-selection.png)
-
 ### Calendar View
 ![Calendar View](screenshots/calendar-view.png)
 
