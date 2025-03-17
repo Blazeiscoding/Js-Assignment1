@@ -49,9 +49,9 @@ JS-Assignment/
 ### Calendar View
 ![Calendar View](screenshots/calendar-view.png)
 
-## License
+## Deployment Link
 
-This project is open-source and available under the MIT License.
+![Deployment Link]https://masterji-assignment1.netlify.app/
 
 ## Author
 
